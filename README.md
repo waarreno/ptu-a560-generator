@@ -319,7 +319,9 @@ Se a compactação estiver ativada, cada XML será compactado individualmente em
 
 ## Licença
 
-Copyright © 2025 Wárreno Hendrick Costa Lima Guimarães. Todos os direitos reservados.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Copyright © 2025 Wárreno Hendrick Costa Lima Guimarães.
 
 ## Autor
 
