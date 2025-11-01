@@ -1,0 +1,17 @@
+{
+  "name": "ptu-a560-generator",
+  "version": "1.1.0",
+  "description": "Gerador de arquivos PTU A560 em lote",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "xlsx": "^0.18.5",
+    "archiver": "^5.3.1",
+    "xmlbuilder2": "4.0.0"
+  }
+}
