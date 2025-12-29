@@ -6,7 +6,7 @@ echo Instalador Automatico do Node.js
 echo ========================================
 echo.
 
-set NODE_VERSION=24.11.0
+set NODE_VERSION=24.12.0
 set NODE_URL=https://nodejs.org/dist/v%NODE_VERSION%/node-v%NODE_VERSION%-win-x64.zip
 set NODE_ZIP=node.zip
 set NODE_DIR=node-portable
@@ -61,8 +61,6 @@ echo ========================================
 echo Instalacao concluida com sucesso!
 echo ========================================
 echo.
-echo Versao 1.1.0
-echo Copyright (c) 2025 Warreno Hendrick Costa Lima Guimaraes. Todos os direitos reservados.
 
 :end
 echo Versao 1.1.0
