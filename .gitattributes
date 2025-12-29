@@ -1,0 +1,10 @@
+# Arquivos de texto padrão
+* text=auto
+
+# Arquivos Windows específicos
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Arquivos Unix específicos
+*.sh text eol=lf
